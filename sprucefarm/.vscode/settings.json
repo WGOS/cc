@@ -1,0 +1,10 @@
+{
+    "Lua.diagnostics.globals": [
+        "turtle",
+        "sleep",
+        "peripheral",
+        "fs",
+        "textutils",
+        "shell"
+    ]
+}

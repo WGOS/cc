@@ -1,0 +1,15 @@
+minecraft:stone
+minecraft:calcite
+minecraft:granite
+minecraft:deepslate
+minecraft:diorite
+minecraft:andesite
+minecraft:tuff
+minecraft:dirt
+minecraft:gravel
+forbidden_arcanus:darkstone
+minecraft:cobbled_deepslate
+minecraft:cobblestone
+create:ochrum
+minecraft:dripstone_block
+minecraft:sandstone

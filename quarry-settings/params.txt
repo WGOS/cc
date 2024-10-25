@@ -1,0 +1,7 @@
+dim 48 8 110
+doRefuel true
+invert false
+oreQuarry true
+overfuel 2.2
+blacklist bl.txt
+chest top
