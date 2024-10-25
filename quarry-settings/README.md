@@ -1,1 +1,1 @@
-`wget run https://gitlab.wgos.org/WGOS/cc-quarry-settings/-/raw/main/quarry-launch.lua`
+`wget run https://raw.githubusercontent.com/WGOS/cc/refs/heads/master/quarry-settings/quarry-launch.lua`

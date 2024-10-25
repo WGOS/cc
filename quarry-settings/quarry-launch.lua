@@ -1,4 +1,4 @@
-local baseUrl = "https://gitlab.wgos.org/WGOS/cc-quarry-settings/-/raw/main"
+local baseUrl = "https://raw.githubusercontent.com/WGOS/cc/refs/heads/master/quarry-settings"
 local blacklistName = "bl.txt"
 local paramsName = "params.txt"
 local quarryProgName = "quarry.lua"
