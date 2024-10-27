@@ -5,4 +5,4 @@ oreQuarry true
 overfuel 2.2
 blacklist bl.txt
 chest top
-startDown 4
+startDown 5
