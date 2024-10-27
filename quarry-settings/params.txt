@@ -1,4 +1,4 @@
-dim 16 4 130
+dim 64 8 130
 doRefuel true
 invert false
 oreQuarry true
